@@ -14,16 +14,16 @@ SET IMEI=357497085496898
 mba2mfii -i %IMEI% -d %DEVICE_ID% .\%IMEI% .\output\%IMEI%.csv 
 
 SET IMEI=355984086011307
-mba2mfii -i %IMEI% -d %DEVICE_ID% .\%IMEI% .\output\%IMEI%.csv 
+mba2mfii -i %IMEI% -d %DEVICE_ID% -p 311420 .\%IMEI% .\output\%IMEI%.csv 
 
 SET IMEI=355984081123982
-mba2mfii -i %IMEI% -d %DEVICE_ID% .\%IMEI% .\output\%IMEI%.csv 
+mba2mfii -i %IMEI% -d %DEVICE_ID% -p 311420 .\%IMEI% .\output\%IMEI%.csv 
 
 SET IMEI=355984086011950
-mba2mfii -i %IMEI% -d %DEVICE_ID% .\%IMEI% .\output\%IMEI%.csv 
+mba2mfii -i %IMEI% -d %DEVICE_ID% -p 311420 .\%IMEI% .\output\%IMEI%.csv 
 
 SET IMEI=355984081093656
-mba2mfii -i %IMEI% -d %DEVICE_ID% .\%IMEI% .\output\%IMEI%.csv 
+mba2mfii -i %IMEI% -d %DEVICE_ID% -p 311420 .\%IMEI% .\output\%IMEI%.csv 
 
 SET IMEI=359031084424003
 mba2mfii -i %IMEI% -d %DEVICE_ID% .\%IMEI% .\output\%IMEI%.csv 
